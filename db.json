@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "ProductDetail": "samsung",
+      "ProductFirstName": "faizan",
+      "ProductLastName": "rehman",
+      "ProductAddress": "naster park",
+      "ProductCatagory": "valid",
+      "ProductPrice": "60",
+      "ProductCity": "skp",
+      "ProductState": "pk",
+      "date": "1989-12-31T19:00:00.000Z",
+      "id": 1
+    },
+    {
+      "ProductDetail": "Iphone",
+      "ProductFirstName": "faizan",
+      "ProductLastName": "rehman",
+      "ProductAddress": "lahore",
+      "ProductCatagory": "valid",
+      "ProductPrice": "209",
+      "ProductCity": "Lahore",
+      "ProductState": "Pakistan",
+      "date": "2021-12-31T19:00:00.000Z",
+      "id": 3
+    },
+    {
+      "ProductDetail": "Iphone",
+      "ProductFirstName": "Misbah",
+      "ProductLastName": "Rehman",
+      "ProductAddress": "Islamabad",
+      "ProductCatagory": "Electronics",
+      "ProductPrice": "200",
+      "ProductCity": "Islamabad",
+      "ProductState": "Pakistan",
+      "date": "2021-11-01T19:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
